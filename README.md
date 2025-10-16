@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mohammad
+👋 Hi, 
 
-Yo, awesome humans! 🙌🏾   
+Yo, awesome humans! 🙌🏾 I'm Mohammad
 Diving into the **MERN Stack** (MongoDB · Express · React · Node.js) to build web apps that are fast, interactive, and just a little magical. ✨  
 
 Curiosity is my superpower — whether it's AI experiments, coding, or tech tinkering, I love exploring new things every day.  
